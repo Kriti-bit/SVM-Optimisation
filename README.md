@@ -18,3 +18,11 @@ The objective is to identify each of a large number of black-and-white rectangul
 ![Data Distribution](/static/distribution.png)
 
 <br>
+
+## Methodology
+
+<br>
+
+![Data Distribution](/static/flowchart.jpg)
+
+<br>
