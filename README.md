@@ -23,6 +23,8 @@ The objective is to identify each of a large number of black-and-white rectangul
 
 <br>
 
-![Data Distribution](/static/flowchart.jpg)
+![Flowchart](/static/flowchart.jpg)
 
 <br>
+
+## Results
