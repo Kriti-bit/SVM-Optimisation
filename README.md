@@ -28,3 +28,11 @@ The objective is to identify each of a large number of black-and-white rectangul
 <br>
 
 ## Results
+
+The convergence graph for the best sample was plotted for all accuracies obtained over the 1000 iterations. The graph is shown below.
+
+<br>
+
+![graph](static\convergence_graph2.png)
+
+<br>
