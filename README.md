@@ -21,6 +21,8 @@ The objective is to identify each of a large number of black-and-white rectangul
 
 ## Methodology
 
+After splitting the dataset into 10 samples, to find the best parameters for the SVM model for each sample the below methodology was followed. The parameters that were optimised were nu, epsilon and kernel. The process was repeated for 1000 iterations and the accuracy was calculated for each iteration. The convergence graph was plotted for the best sample.
+
 <br>
 
 ![Flowchart](/static/flowchart.jpg)
@@ -29,7 +31,7 @@ The objective is to identify each of a large number of black-and-white rectangul
 
 ## Results
 
-The convergence graph for the best sample was plotted for all accuracies obtained over the 1000 iterations. The graph is shown below.
+The convergence graph for the best sample, i.e. Sample 2, was plotted for all accuracies obtained over the 1000 iterations. The graph is shown below. The highest accuracy achieved was 0.926667. The best Kernel was 'rbf' and the best nu and epsilon values were 0.820904 and 0.141145 respectively.
 
 <br>
 
