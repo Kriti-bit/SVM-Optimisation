@@ -35,6 +35,6 @@ The convergence graph for the best sample, i.e. Sample 2, was plotted for all ac
 
 <br>
 
-![graph](static\convergence_graph2.png)
+![graph](/static/convergence_graph2.png)
 
 <br>
