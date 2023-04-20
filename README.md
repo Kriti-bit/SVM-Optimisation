@@ -31,7 +31,7 @@ After splitting the dataset into 10 samples, to find the best parameters for the
 
 ## Results
 
-The convergence graph for the best sample, i.e. Sample 2, was plotted for all accuracies obtained over the 1000 iterations. The graph is shown below. The highest accuracy achieved was 0.826667. The best Kernel was 'rbf' and the best nu and epsilon values were 0.820904 and 0.141145 respectively.
+The convergence graph for the best sample, i.e. Sample 2, was plotted for all accuracies obtained over the 1000 iterations. The graph is shown below. The highest accuracy achieved was 0.93. The best Kernel was 'rbf' and the best nu and epsilon values were 0.820904 and 0.141145 respectively.
 
 <br>
 
